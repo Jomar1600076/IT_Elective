@@ -20,3 +20,7 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+
+## Modify the code
+Change the app.js line 22 with:
+import {createRouter} from 'app/src/routes'
